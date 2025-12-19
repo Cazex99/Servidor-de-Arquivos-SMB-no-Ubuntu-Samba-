@@ -11,4 +11,4 @@ de arquivos SMB no Ubuntu utilizando Samba.
 - Acesso sudo
 - Rede local funcional
 
-Para ver o passo a passo de instalação, veja [Instalação](instalacao.md).
+Para ver o passo a passo de instalação, veja [Instalação](Instalação.md).
