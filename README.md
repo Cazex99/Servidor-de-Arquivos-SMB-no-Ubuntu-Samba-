@@ -5,7 +5,7 @@ de arquivos SMB no Ubuntu utilizando Samba.
 
 ---
 
-## 📌 Requisitos
+##  Requisitos
 
 - Ubuntu Server ou Desktop
 - Acesso sudo
